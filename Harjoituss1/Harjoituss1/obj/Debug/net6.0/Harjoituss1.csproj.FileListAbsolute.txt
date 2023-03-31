@@ -1,0 +1,15 @@
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Harjoituss1\Harjoituss1\bin\Debug\net6.0\Harjoituss1.exe
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Harjoituss1\Harjoituss1\bin\Debug\net6.0\Harjoituss1.deps.json
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Harjoituss1\Harjoituss1\bin\Debug\net6.0\Harjoituss1.runtimeconfig.json
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Harjoituss1\Harjoituss1\bin\Debug\net6.0\Harjoituss1.dll
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Harjoituss1\Harjoituss1\bin\Debug\net6.0\Harjoituss1.pdb
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Harjoituss1\Harjoituss1\obj\Debug\net6.0\Harjoituss1.csproj.AssemblyReference.cache
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Harjoituss1\Harjoituss1\obj\Debug\net6.0\Harjoituss1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Harjoituss1\Harjoituss1\obj\Debug\net6.0\Harjoituss1.AssemblyInfoInputs.cache
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Harjoituss1\Harjoituss1\obj\Debug\net6.0\Harjoituss1.AssemblyInfo.cs
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Harjoituss1\Harjoituss1\obj\Debug\net6.0\Harjoituss1.csproj.CoreCompileInputs.cache
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Harjoituss1\Harjoituss1\obj\Debug\net6.0\Harjoituss1.dll
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Harjoituss1\Harjoituss1\obj\Debug\net6.0\refint\Harjoituss1.dll
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Harjoituss1\Harjoituss1\obj\Debug\net6.0\Harjoituss1.pdb
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Harjoituss1\Harjoituss1\obj\Debug\net6.0\Harjoituss1.genruntimeconfig.cache
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Harjoituss1\Harjoituss1\obj\Debug\net6.0\ref\Harjoituss1.dll
