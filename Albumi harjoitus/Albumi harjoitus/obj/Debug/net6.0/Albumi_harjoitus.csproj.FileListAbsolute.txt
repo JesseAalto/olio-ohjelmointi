@@ -1,0 +1,15 @@
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Albumi harjoitus\Albumi harjoitus\obj\Debug\net6.0\Albumi_harjoitus.csproj.AssemblyReference.cache
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Albumi harjoitus\Albumi harjoitus\obj\Debug\net6.0\Albumi_harjoitus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Albumi harjoitus\Albumi harjoitus\obj\Debug\net6.0\Albumi_harjoitus.AssemblyInfoInputs.cache
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Albumi harjoitus\Albumi harjoitus\obj\Debug\net6.0\Albumi_harjoitus.AssemblyInfo.cs
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Albumi harjoitus\Albumi harjoitus\obj\Debug\net6.0\Albumi_harjoitus.csproj.CoreCompileInputs.cache
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Albumi harjoitus\Albumi harjoitus\bin\Debug\net6.0\Albumi_harjoitus.exe
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Albumi harjoitus\Albumi harjoitus\bin\Debug\net6.0\Albumi_harjoitus.deps.json
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Albumi harjoitus\Albumi harjoitus\bin\Debug\net6.0\Albumi_harjoitus.runtimeconfig.json
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Albumi harjoitus\Albumi harjoitus\bin\Debug\net6.0\Albumi_harjoitus.dll
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Albumi harjoitus\Albumi harjoitus\bin\Debug\net6.0\Albumi_harjoitus.pdb
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Albumi harjoitus\Albumi harjoitus\obj\Debug\net6.0\Albumi_harjoitus.dll
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Albumi harjoitus\Albumi harjoitus\obj\Debug\net6.0\refint\Albumi_harjoitus.dll
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Albumi harjoitus\Albumi harjoitus\obj\Debug\net6.0\Albumi_harjoitus.pdb
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Albumi harjoitus\Albumi harjoitus\obj\Debug\net6.0\Albumi_harjoitus.genruntimeconfig.cache
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Albumi harjoitus\Albumi harjoitus\obj\Debug\net6.0\ref\Albumi_harjoitus.dll
