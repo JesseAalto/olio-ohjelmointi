@@ -1,0 +1,15 @@
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Laskin\Laskin\obj\Debug\net6.0\Harjoitus_5.csproj.AssemblyReference.cache
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Laskin\Laskin\obj\Debug\net6.0\Harjoitus_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Laskin\Laskin\obj\Debug\net6.0\Harjoitus_5.AssemblyInfoInputs.cache
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Laskin\Laskin\obj\Debug\net6.0\Harjoitus_5.AssemblyInfo.cs
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Laskin\Laskin\obj\Debug\net6.0\Harjoitus_5.csproj.CoreCompileInputs.cache
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Laskin\Laskin\bin\Debug\net6.0\Harjoitus_5.exe
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Laskin\Laskin\bin\Debug\net6.0\Harjoitus_5.deps.json
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Laskin\Laskin\bin\Debug\net6.0\Harjoitus_5.runtimeconfig.json
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Laskin\Laskin\bin\Debug\net6.0\Harjoitus_5.dll
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Laskin\Laskin\bin\Debug\net6.0\Harjoitus_5.pdb
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Laskin\Laskin\obj\Debug\net6.0\Harjoitus_5.dll
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Laskin\Laskin\obj\Debug\net6.0\refint\Harjoitus_5.dll
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Laskin\Laskin\obj\Debug\net6.0\Harjoitus_5.pdb
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Laskin\Laskin\obj\Debug\net6.0\Harjoitus_5.genruntimeconfig.cache
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Laskin\Laskin\obj\Debug\net6.0\ref\Harjoitus_5.dll

@@ -1,0 +1,15 @@
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Laskija\Laskija\bin\Debug\net6.0\Laskija.exe
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Laskija\Laskija\bin\Debug\net6.0\Laskija.deps.json
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Laskija\Laskija\bin\Debug\net6.0\Laskija.runtimeconfig.json
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Laskija\Laskija\bin\Debug\net6.0\Laskija.dll
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Laskija\Laskija\bin\Debug\net6.0\Laskija.pdb
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Laskija\Laskija\obj\Debug\net6.0\Laskija.csproj.AssemblyReference.cache
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Laskija\Laskija\obj\Debug\net6.0\Laskija.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Laskija\Laskija\obj\Debug\net6.0\Laskija.AssemblyInfoInputs.cache
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Laskija\Laskija\obj\Debug\net6.0\Laskija.AssemblyInfo.cs
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Laskija\Laskija\obj\Debug\net6.0\Laskija.csproj.CoreCompileInputs.cache
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Laskija\Laskija\obj\Debug\net6.0\Laskija.dll
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Laskija\Laskija\obj\Debug\net6.0\refint\Laskija.dll
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Laskija\Laskija\obj\Debug\net6.0\Laskija.pdb
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Laskija\Laskija\obj\Debug\net6.0\Laskija.genruntimeconfig.cache
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Laskija\Laskija\obj\Debug\net6.0\ref\Laskija.dll
