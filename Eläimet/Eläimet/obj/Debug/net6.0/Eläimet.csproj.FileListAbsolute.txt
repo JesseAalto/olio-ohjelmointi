@@ -1,0 +1,15 @@
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Eläimet\Eläimet\bin\Debug\net6.0\Eläimet.exe
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Eläimet\Eläimet\bin\Debug\net6.0\Eläimet.deps.json
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Eläimet\Eläimet\bin\Debug\net6.0\Eläimet.runtimeconfig.json
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Eläimet\Eläimet\bin\Debug\net6.0\Eläimet.dll
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Eläimet\Eläimet\bin\Debug\net6.0\Eläimet.pdb
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Eläimet\Eläimet\obj\Debug\net6.0\Eläimet.csproj.AssemblyReference.cache
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Eläimet\Eläimet\obj\Debug\net6.0\Eläimet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Eläimet\Eläimet\obj\Debug\net6.0\Eläimet.AssemblyInfoInputs.cache
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Eläimet\Eläimet\obj\Debug\net6.0\Eläimet.AssemblyInfo.cs
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Eläimet\Eläimet\obj\Debug\net6.0\Eläimet.csproj.CoreCompileInputs.cache
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Eläimet\Eläimet\obj\Debug\net6.0\Eläimet.dll
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Eläimet\Eläimet\obj\Debug\net6.0\refint\Eläimet.dll
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Eläimet\Eläimet\obj\Debug\net6.0\Eläimet.pdb
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Eläimet\Eläimet\obj\Debug\net6.0\Eläimet.genruntimeconfig.cache
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Eläimet\Eläimet\obj\Debug\net6.0\ref\Eläimet.dll
