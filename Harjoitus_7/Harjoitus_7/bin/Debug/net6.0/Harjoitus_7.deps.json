@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Harjoitus_7/1.0.0": {
+        "runtime": {
+          "Harjoitus_7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Harjoitus_7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

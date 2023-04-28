@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 public class Elain
 {
-    static int elaimiaYhteensa = 0;
+    public static int elaimiaYhteensa = 0;
 
     public Elain()
     {
