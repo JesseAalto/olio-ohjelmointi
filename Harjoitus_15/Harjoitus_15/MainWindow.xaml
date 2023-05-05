@@ -1,0 +1,16 @@
+﻿<Window x:Class="Harjoitus_15.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Harjoitus_15"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid x:Name="tbKuormaauto" Height="NaN">
+        <Button x:Name="BtnHenkilöauto" Content="Henkilöauto" HorizontalAlignment="Left" Margin="272,168,0,0" VerticalAlignment="Top" Height="81" Width="105" Click="BtnHenkilöAuto_Click"/>
+        <Button x:Name="BtnKuormaauto" Content="Kuormaauto" HorizontalAlignment="Left" Margin="400,168,0,0" VerticalAlignment="Top" Height="81" Width="106" Click="BtnKuormaAuto_Click_1"/>
+        <TextBlock x:Name="tbHenkilöauto1" HorizontalAlignment="Left" Margin="305,280,0,0" TextWrapping="Wrap" VerticalAlignment="Top"><Run Language="fi-fi" Text="0"/></TextBlock>
+        <TextBlock x:Name="tbKuormaauto1" HorizontalAlignment="Left" Margin="421,280,0,0" TextWrapping="Wrap" VerticalAlignment="Top"><Run Language="fi-fi" Text="0"/></TextBlock>
+
+    </Grid>
+</Window>

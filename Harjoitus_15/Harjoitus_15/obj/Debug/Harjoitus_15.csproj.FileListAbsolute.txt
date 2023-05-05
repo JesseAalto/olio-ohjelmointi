@@ -1,0 +1,16 @@
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Harjoitus_15\Harjoitus_15\obj\Debug\Harjoitus_15.csproj.AssemblyReference.cache
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Harjoitus_15\Harjoitus_15\obj\Debug\Harjoitus_15.csproj.SuggestedBindingRedirects.cache
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Harjoitus_15\Harjoitus_15\obj\Debug\MainWindow.g.cs
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Harjoitus_15\Harjoitus_15\obj\Debug\App.g.cs
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Harjoitus_15\Harjoitus_15\obj\Debug\Harjoitus_15_MarkupCompile.cache
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Harjoitus_15\Harjoitus_15\obj\Debug\Harjoitus_15_MarkupCompile.lref
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Harjoitus_15\Harjoitus_15\bin\Debug\Harjoitus_15.exe.config
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Harjoitus_15\Harjoitus_15\bin\Debug\Harjoitus_15.exe
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Harjoitus_15\Harjoitus_15\bin\Debug\Harjoitus_15.pdb
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Harjoitus_15\Harjoitus_15\obj\Debug\MainWindow.baml
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Harjoitus_15\Harjoitus_15\obj\Debug\Harjoitus_15.g.resources
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Harjoitus_15\Harjoitus_15\obj\Debug\Harjoitus_15.Properties.Resources.resources
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Harjoitus_15\Harjoitus_15\obj\Debug\Harjoitus_15.csproj.GenerateResource.cache
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Harjoitus_15\Harjoitus_15\obj\Debug\Harjoitus_15.csproj.CoreCompileInputs.cache
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Harjoitus_15\Harjoitus_15\obj\Debug\Harjoitus_15.exe
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Harjoitus_15\Harjoitus_15\obj\Debug\Harjoitus_15.pdb
