@@ -1,0 +1,14 @@
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\harjoitus17\harjoitus17\bin\Debug\harjoitus17.exe.config
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\harjoitus17\harjoitus17\bin\Debug\harjoitus17.exe
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\harjoitus17\harjoitus17\bin\Debug\harjoitus17.pdb
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\harjoitus17\harjoitus17\obj\Debug\harjoitus17.csproj.AssemblyReference.cache
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\harjoitus17\harjoitus17\obj\Debug\MainWindow.baml
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\harjoitus17\harjoitus17\obj\Debug\MainWindow.g.cs
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\harjoitus17\harjoitus17\obj\Debug\App.g.cs
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\harjoitus17\harjoitus17\obj\Debug\harjoitus17_MarkupCompile.cache
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\harjoitus17\harjoitus17\obj\Debug\harjoitus17.g.resources
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\harjoitus17\harjoitus17\obj\Debug\harjoitus17.Properties.Resources.resources
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\harjoitus17\harjoitus17\obj\Debug\harjoitus17.csproj.GenerateResource.cache
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\harjoitus17\harjoitus17\obj\Debug\harjoitus17.csproj.CoreCompileInputs.cache
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\harjoitus17\harjoitus17\obj\Debug\harjoitus17.exe
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\harjoitus17\harjoitus17\obj\Debug\harjoitus17.pdb

@@ -1,0 +1,12 @@
+﻿<Window x:Class="KmMilesConverter.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="KmMilesConverter" Height="200" Width="300">
+    <Grid>
+        <StackPanel Margin="10">
+            <TextBox x:Name="txtKilometers" Margin="0,0,0,10" Width="200" PlaceholderText="Kilometres" />
+            <TextBox x:Name="txtMiles" Margin="0,0,0,10" Width="200" PlaceholderText="Miles" />
+            <Button x:Name="btnKmToMiles" Width="100" Content="Convert" Click="Convert_Click" />
+        </StackPanel>
+    </Grid>
+</Window>
