@@ -1,3 +1,0 @@
-C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\KilometriMaileiksi\obj\Debug\KilometriMaileiksi.csproj.AssemblyReference.cache
-C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\KilometriMaileiksi\obj\Debug\App.g.cs
-C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\KilometriMaileiksi\obj\Debug\KilometriMaileiksi_MarkupCompile.cache
