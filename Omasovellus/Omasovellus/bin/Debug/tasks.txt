@@ -1,0 +1,2 @@
+Runkkaus,True
+Hemo peppuseksi ystävän kanssa,False

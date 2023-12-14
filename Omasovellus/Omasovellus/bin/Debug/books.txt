@@ -1,0 +1,4 @@
+Vasikka,False
+Potato,False
+paska,False
+Es jonne,False

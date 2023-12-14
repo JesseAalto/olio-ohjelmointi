@@ -1,0 +1,14 @@
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Omasovellus\Omasovellus\obj\Debug\Omasovellus.csproj.AssemblyReference.cache
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Omasovellus\Omasovellus\obj\Debug\MainWindow.g.cs
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Omasovellus\Omasovellus\obj\Debug\App.g.cs
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Omasovellus\Omasovellus\obj\Debug\Omasovellus_MarkupCompile.cache
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Omasovellus\Omasovellus\bin\Debug\Omasovellus.exe.config
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Omasovellus\Omasovellus\bin\Debug\Omasovellus.exe
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Omasovellus\Omasovellus\bin\Debug\Omasovellus.pdb
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Omasovellus\Omasovellus\obj\Debug\MainWindow.baml
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Omasovellus\Omasovellus\obj\Debug\Omasovellus.g.resources
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Omasovellus\Omasovellus\obj\Debug\Omasovellus.Properties.Resources.resources
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Omasovellus\Omasovellus\obj\Debug\Omasovellus.csproj.GenerateResource.cache
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Omasovellus\Omasovellus\obj\Debug\Omasovellus.csproj.CoreCompileInputs.cache
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Omasovellus\Omasovellus\obj\Debug\Omasovellus.exe
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Omasovellus\Omasovellus\obj\Debug\Omasovellus.pdb
