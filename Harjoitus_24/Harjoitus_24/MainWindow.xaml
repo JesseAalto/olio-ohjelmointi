@@ -1,0 +1,32 @@
+﻿<!-- Tässä on käyttöliittymän ulkoasu -->
+<Window x:Class="Harjoitus_24.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Lotto App" Height="400" Width="600">
+    <Grid>
+        <StackPanel Margin="20">
+
+            <!-- Käyttäjän antama rivilukumäärä -->
+            <Label Content="Monta riviä haluat tulostaa?" />
+            <TextBox x:Name="NumberOfLinesTextBox" />
+
+            <!-- Pelin valinta -->
+            <Label Content="Valitse peli:" />
+            <ComboBox x:Name="GameSelectionComboBox">
+                <ComboBoxItem Content="Lotto" />
+                <ComboBoxItem Content="Viking Lotto" />
+                <ComboBoxItem Content="Eurojackpot" />
+            </ComboBox>
+
+            <!-- Nappulat tulostusta ja tyhjennystä varten -->
+            <Button Content="Tulosta" Click="OnPrintClick" Margin="0,10,0,0"/>
+            <Button Content="Tyhjennä" Click="OnClearClick" />
+
+            <!-- Tulostusalue, joka on ScrollViewerin sisällä -->
+            <ScrollViewer Height="200" VerticalScrollBarVisibility="Auto">
+                <TextBlock x:Name="ResultTextBlock" />
+            </ScrollViewer>
+
+        </StackPanel>
+    </Grid>
+</Window>
