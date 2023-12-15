@@ -1,0 +1,39 @@
+﻿<Window x:Class="Harjoitus_21.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Shopping Cart" Height="350" Width="500">
+    <Grid>
+        
+        <!-- Sisältö ja elementit -->
+        <Grid Margin="20">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <!-- Tuotevalinnat -->
+            <StackPanel Grid.Row="0">
+                <!-- CheckBox kontrollit eri tuotteille -->
+                <CheckBox Name="checkBox1" Content="Maito" Checked="CheckBox_Checked" Unchecked="CheckBox_Unchecked" Foreground="White"/>
+                <CheckBox Name="checkBox2" Content="Leipä" Checked="CheckBox_Checked" Unchecked="CheckBox_Unchecked" Foreground="White"/>
+                <CheckBox Name="checkBox3" Content="Pihvi" Checked="CheckBox_Checked" Unchecked="CheckBox_Unchecked" Foreground="White"/>
+                <CheckBox Name="checkBox4" Content="Peruna" Checked="CheckBox_Checked" Unchecked="CheckBox_Unchecked" Foreground="White"/>
+                <CheckBox Name="checkBox5" Content="Bataatti" Checked="CheckBox_Checked" Unchecked="CheckBox_Unchecked" Foreground="White"/>
+                <CheckBox Name="checkBox6" Content="Omena" Checked="CheckBox_Checked" Unchecked="CheckBox_Unchecked" Foreground="White"/>
+                <CheckBox Name="checkBox7" Content="Limonaadi" Checked="CheckBox_Checked" Unchecked="CheckBox_Unchecked" Foreground="White"/>
+               
+                <!-- Lisää tarvittaessa muit CheckBox kontrolleja -->
+
+                <!-- Osto nappi -->
+                <Button Content="Osta" Click="OstaButton_Click" HorizontalAlignment="Center" Margin="5"/>
+            </StackPanel>
+
+            <!-- StockPanel, johon lisätään valitut tuotteet -->
+            <StackPanel Name="StockPanel" Grid.Row="1" Margin="5" Background="WhiteSmoke" Opacity="0.8"/>
+
+            <!-- Lisää visuaalisuutta sovelluksee -->
+            <Border Grid.Row="2" Background="Blue" Opacity="0.5"/>
+        </Grid>
+    </Grid>
+</Window>
