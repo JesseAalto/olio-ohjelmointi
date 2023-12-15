@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jesse.aalto\\source\\repos\\JesseAalto\\olio-ohjelmointi\\Opiskelija harjoitus2\\Opiskelija harjoitus2\\Opiskelija harjoitus2.csproj": {}
+    "C:\\Users\\jesse.aalto\\source\\repos\\JesseAalto\\olio-ohjelmointi\\Harjoitus_8\\Harjoitus_8\\Harjoitus_8.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jesse.aalto\\source\\repos\\JesseAalto\\olio-ohjelmointi\\Opiskelija harjoitus2\\Opiskelija harjoitus2\\Opiskelija harjoitus2.csproj": {
+    "C:\\Users\\jesse.aalto\\source\\repos\\JesseAalto\\olio-ohjelmointi\\Harjoitus_8\\Harjoitus_8\\Harjoitus_8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jesse.aalto\\source\\repos\\JesseAalto\\olio-ohjelmointi\\Opiskelija harjoitus2\\Opiskelija harjoitus2\\Opiskelija harjoitus2.csproj",
-        "projectName": "Opiskelija harjoitus2",
-        "projectPath": "C:\\Users\\jesse.aalto\\source\\repos\\JesseAalto\\olio-ohjelmointi\\Opiskelija harjoitus2\\Opiskelija harjoitus2\\Opiskelija harjoitus2.csproj",
+        "projectUniqueName": "C:\\Users\\jesse.aalto\\source\\repos\\JesseAalto\\olio-ohjelmointi\\Harjoitus_8\\Harjoitus_8\\Harjoitus_8.csproj",
+        "projectName": "Harjoitus_8",
+        "projectPath": "C:\\Users\\jesse.aalto\\source\\repos\\JesseAalto\\olio-ohjelmointi\\Harjoitus_8\\Harjoitus_8\\Harjoitus_8.csproj",
         "packagesPath": "C:\\Users\\jesse.aalto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jesse.aalto\\source\\repos\\JesseAalto\\olio-ohjelmointi\\Opiskelija harjoitus2\\Opiskelija harjoitus2\\obj\\",
+        "outputPath": "C:\\Users\\jesse.aalto\\source\\repos\\JesseAalto\\olio-ohjelmointi\\Harjoitus_8\\Harjoitus_8\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

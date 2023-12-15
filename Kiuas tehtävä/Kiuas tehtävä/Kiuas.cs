@@ -13,7 +13,7 @@ class Kiuas
     private int Kosteus;
     private bool Tila;
 
-    // Konstruktori
+   
     public Kiuas(string nimi)
     {
         Nimi = nimi;

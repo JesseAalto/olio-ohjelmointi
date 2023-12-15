@@ -4,7 +4,7 @@ internal class Program
 {
     static void Main(string[] args)
     {
-        // Luodaan Kiuas-olio ja käytetään sen metodeja eri arvoilla
+        // Luodaan Kiuas olio ja käytetään sen metodeja eri arvoilla
         Kiuas saunaKiuas = new Kiuas("Saunakeidas");
 
         saunaKiuas.TulostaTiedot();
