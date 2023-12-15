@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jesse.aalto\\source\\repos\\JesseAalto\\olio-ohjelmointi\\Kiuas tehtävä\\Kiuas tehtävä\\Kiuas tehtävä.csproj": {}
+    "C:\\Users\\jesse.aalto\\source\\repos\\JesseAalto\\olio-ohjelmointi\\Kiuas tehtävä\\Kiuas tehtävä\\Harjoitus_3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jesse.aalto\\source\\repos\\JesseAalto\\olio-ohjelmointi\\Kiuas tehtävä\\Kiuas tehtävä\\Kiuas tehtävä.csproj": {
+    "C:\\Users\\jesse.aalto\\source\\repos\\JesseAalto\\olio-ohjelmointi\\Kiuas tehtävä\\Kiuas tehtävä\\Harjoitus_3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jesse.aalto\\source\\repos\\JesseAalto\\olio-ohjelmointi\\Kiuas tehtävä\\Kiuas tehtävä\\Kiuas tehtävä.csproj",
-        "projectName": "Kiuas tehtävä",
-        "projectPath": "C:\\Users\\jesse.aalto\\source\\repos\\JesseAalto\\olio-ohjelmointi\\Kiuas tehtävä\\Kiuas tehtävä\\Kiuas tehtävä.csproj",
+        "projectUniqueName": "C:\\Users\\jesse.aalto\\source\\repos\\JesseAalto\\olio-ohjelmointi\\Kiuas tehtävä\\Kiuas tehtävä\\Harjoitus_3.csproj",
+        "projectName": "Harjoitus_3",
+        "projectPath": "C:\\Users\\jesse.aalto\\source\\repos\\JesseAalto\\olio-ohjelmointi\\Kiuas tehtävä\\Kiuas tehtävä\\Harjoitus_3.csproj",
         "packagesPath": "C:\\Users\\jesse.aalto\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\jesse.aalto\\source\\repos\\JesseAalto\\olio-ohjelmointi\\Kiuas tehtävä\\Kiuas tehtävä\\obj\\",
         "projectStyle": "PackageReference",

@@ -1,7 +1,21 @@
-﻿internal class Program
+﻿using Harjoitus_3;
+
+internal class Program
 {
-    private static void Main(string[] args)
+    static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        // Luodaan Kiuas-olio ja käytetään sen metodeja eri arvoilla
+        Kiuas saunaKiuas = new Kiuas("Saunakeidas");
+
+        saunaKiuas.TulostaTiedot();
+
+        saunaKiuas.VaihdaLampotila(75);
+        saunaKiuas.VaihdaKosteus(70);
+        saunaKiuas.VaihdaTila();
+
+        Console.WriteLine("\nMuutettu tilanne:");
+        saunaKiuas.TulostaTiedot();
+
+        Console.ReadLine();
     }
 }

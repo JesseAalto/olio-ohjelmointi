@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jesse.aalto\\source\\repos\\JesseAalto\\olio-ohjelmointi\\Kiuas tehtävä\\Kiuas tehtävä\\Kiuas tehtävä.csproj",
-      "projectName": "Kiuas tehtävä",
-      "projectPath": "C:\\Users\\jesse.aalto\\source\\repos\\JesseAalto\\olio-ohjelmointi\\Kiuas tehtävä\\Kiuas tehtävä\\Kiuas tehtävä.csproj",
+      "projectUniqueName": "C:\\Users\\jesse.aalto\\source\\repos\\JesseAalto\\olio-ohjelmointi\\Kiuas tehtävä\\Kiuas tehtävä\\Harjoitus_3.csproj",
+      "projectName": "Harjoitus_3",
+      "projectPath": "C:\\Users\\jesse.aalto\\source\\repos\\JesseAalto\\olio-ohjelmointi\\Kiuas tehtävä\\Kiuas tehtävä\\Harjoitus_3.csproj",
       "packagesPath": "C:\\Users\\jesse.aalto\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\jesse.aalto\\source\\repos\\JesseAalto\\olio-ohjelmointi\\Kiuas tehtävä\\Kiuas tehtävä\\obj\\",
       "projectStyle": "PackageReference",
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

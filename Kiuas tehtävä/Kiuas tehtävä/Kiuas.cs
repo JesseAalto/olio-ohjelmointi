@@ -4,46 +4,48 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Kiuas_tehtävä
+namespace Harjoitus_3;
+class Kiuas
 {
-    internal class Kiuas
+    // Ominaisuudet
+    private string Nimi;
+    private int Lampotila;
+    private int Kosteus;
+    private bool Tila;
+
+    // Konstruktori
+    public Kiuas(string nimi)
     {
-        // Kiuas -olion muuttuja
-
-        public string Päälle { get; set; }
-
-        public string Pois { get; set; }
-
-        public int Lämpötila { get; set; }
-
-        public int Kosteus {get; set; }
-
-
-
-
-        public Kiuas(string _Päälle, string _Pois, int _Lämpötila, int _Kosteus)
-        {
-            Päälle = _Päälle;
-            Pois = _Pois;
-            Lämpötila = _Lämpötila;
-            Kosteus = _Kosteus;  
-        }
-
-
-        public string HaeTiedot()
-        {
-            string Kiuastiedot = "Päälle: " + Päälle + ".Pois: " + Pois + ". Lämpötila: " + Lämpötila.ToString();   
-
-            return Kiuastiedot;
-
-
-        }
-        public int 
-        {
-           string Kosteus 
-        }
-
+        Nimi = nimi;
+        Lampotila = 20; // Alustetaan lämpötila oletusarvona
+        Kosteus = 50; // Alustetaan kosteus oletusarvona
+        Tila = false; // Alustetaan kiukaan tila pois päältä
     }
 
+    // Metodi kiukaan tietojen tulostamiseen
+    public void TulostaTiedot()
+    {
+        Console.WriteLine("Kiuas: " + Nimi);
+        Console.WriteLine("Lämpötila: " + Lampotila + " astetta");
+        Console.WriteLine("Kosteus: " + Kosteus + "%");
+        Console.WriteLine("Kiuas on " + (Tila ? "päällä" : "pois päältä"));
+    }
 
+    // Metodi lämpötilan muuttamiseen
+    public void VaihdaLampotila(int uusiLampotila)
+    {
+        Lampotila = uusiLampotila;
+    }
+
+    // Metodi kosteuden muuttamiseen
+    public void VaihdaKosteus(int uusiKosteus)
+    {
+        Kosteus = uusiKosteus;
+    }
+
+    // Metodi kiukaan tilan muuttamiseen (päälle/pois)
+    public void VaihdaTila()
+    {
+        Tila = !Tila;
+    }
 }

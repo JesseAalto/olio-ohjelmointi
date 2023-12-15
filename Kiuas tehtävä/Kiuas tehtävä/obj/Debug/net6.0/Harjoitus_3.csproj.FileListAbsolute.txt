@@ -1,0 +1,14 @@
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Kiuas tehtävä\Kiuas tehtävä\bin\Debug\net6.0\Harjoitus_3.exe
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Kiuas tehtävä\Kiuas tehtävä\bin\Debug\net6.0\Harjoitus_3.deps.json
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Kiuas tehtävä\Kiuas tehtävä\bin\Debug\net6.0\Harjoitus_3.runtimeconfig.json
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Kiuas tehtävä\Kiuas tehtävä\bin\Debug\net6.0\Harjoitus_3.dll
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Kiuas tehtävä\Kiuas tehtävä\bin\Debug\net6.0\Harjoitus_3.pdb
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Kiuas tehtävä\Kiuas tehtävä\obj\Debug\net6.0\Harjoitus_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Kiuas tehtävä\Kiuas tehtävä\obj\Debug\net6.0\Harjoitus_3.AssemblyInfoInputs.cache
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Kiuas tehtävä\Kiuas tehtävä\obj\Debug\net6.0\Harjoitus_3.AssemblyInfo.cs
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Kiuas tehtävä\Kiuas tehtävä\obj\Debug\net6.0\Harjoitus_3.csproj.CoreCompileInputs.cache
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Kiuas tehtävä\Kiuas tehtävä\obj\Debug\net6.0\Harjoitus_3.dll
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Kiuas tehtävä\Kiuas tehtävä\obj\Debug\net6.0\refint\Harjoitus_3.dll
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Kiuas tehtävä\Kiuas tehtävä\obj\Debug\net6.0\Harjoitus_3.pdb
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Kiuas tehtävä\Kiuas tehtävä\obj\Debug\net6.0\Harjoitus_3.genruntimeconfig.cache
+C:\Users\jesse.aalto\source\repos\JesseAalto\olio-ohjelmointi\Kiuas tehtävä\Kiuas tehtävä\obj\Debug\net6.0\ref\Harjoitus_3.dll
